@@ -10,3 +10,6 @@
   ![alt text](https://github.com/Ranggaadam/Praktikum5/blob/master/latihan2(benar).png)
   2. cetak perkataan SALAH :
   ![alt text](https://github.com/Ranggaadam/Praktikum5/blob/master/latihan2(salah).png)
+  
+  Berikut Flowchart nya :
+  ![alt text](https://github.com/Ranggaadam/Praktikum5/blob/master/Flowchart.jpg)
